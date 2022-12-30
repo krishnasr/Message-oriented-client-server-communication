@@ -1,0 +1,18 @@
+on of ports to the communciation between eachother with options
+
+4)Created an extra client in similar fashion for multithreading 
+
+5)Remote procedure call client program logic has been done without using direct packages
+
+6)Later the changes have been made to this rpc client so that it could be suitable for asynchronous and deferred synchronous.
+
+
+Difficulties faced:
+
+1) Had been clueless while coding for communication options between client and server due to increase errors while trying to debug we could resolve the issue.
+
+2)Got confused between the functionalities of asynchronous and deferred rpcs during its implementation
+
+3)In multithreading adding clients was easy but connecting and synchronise it to a server has been a difficult job for me.
+
+4) Implementation of remote procedure call through code has been a challenging task as well.
